@@ -2,6 +2,7 @@
 
 An interactive **Finance Analytics Dashboard** built in **Power BI** to monitor financial transactions, customer behavior, fees, taxes, and business performance across multiple customer segments and regions.
 
+<img src="FinSight - Financial Analytics Dashboard.png">
 ## 📌 Project Overview
 
 This project provides a centralized analytics solution for financial organizations to:
