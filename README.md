@@ -1,4 +1,4 @@
-# FinSight---Financial-Analysis-Project
+# FinSight - Financial-Analytics-Project
 
 An interactive **Finance Analytics Dashboard** built in **Power BI** to monitor financial transactions, customer behavior, fees, taxes, and business performance across multiple customer segments and regions.
 
@@ -74,7 +74,7 @@ Shows which customer groups generate the highest transaction value.
 Compares transaction amounts across different states to identify top-performing regions.
 
 ### 5. Transaction Type Analysis
-- **Chart:** Matrix / Heatmap
+- **Chart:** Matrix 
 
 Metrics Included:
 - Amount
@@ -136,13 +136,6 @@ Users can dynamically filter the dashboard using:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots here after completing the dashboard.
-
-| Executive Dashboard | Drill-down Dashboard |
-|--------------------|---------------------|
-| *(Screenshot)* | *(Screenshot)* |
-
----
 
 ## 🚀 Insights Delivered
 
