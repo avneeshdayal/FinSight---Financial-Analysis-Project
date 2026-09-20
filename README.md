@@ -41,7 +41,9 @@ The dashboard helps stakeholders:
 
 ---
 
-# 📈 Dashboard 1 – Executive Overview
+# 📈 Dashboard – Executive Overview
+
+<img src="FinSight - Financial Analytics Dashboard.png">
 
 ### 1. Monthly Transaction Trend
 - **Chart:** Line / Area Chart
@@ -101,29 +103,6 @@ Compares transaction contribution by:
 - Male
 - Female
 
----
-
-# 📋 Dashboard 2 – Detailed Records
-
-A drill-down dashboard providing:
-
-- Detailed transaction grid
-- Record-level analysis
-- Interactive filtering
-- Business-level investigation of individual transactions
-
----
-
-## 🎛 Interactive Filters
-
-Users can dynamically filter the dashboard using:
-
-- Year
-- Dynamic Measure
-- Occupation
-- Category
-
----
 
 ## 🛠 Tools Used
 
@@ -132,9 +111,6 @@ Users can dynamically filter the dashboard using:
 - **DAX** – KPI & YoY Calculations
 - **Excel / CSV** – Data Source
 
----
-
-## 📷 Dashboard Preview
 
 
 ## 🚀 Insights Delivered
